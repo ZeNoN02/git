@@ -37,10 +37,7 @@
 		    <?php
         } ?>	
         	<tr>
-				<th>Lista cartilor Selectate
-                <span id="val">Total: </span>
-  <button onclick="calculate()">Run</button>
-                </th>
+		
                 
 			</tr>				 
 		</tbody>
